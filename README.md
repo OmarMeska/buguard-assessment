@@ -92,3 +92,6 @@ A Poc of the API docs:
 
 ![alt text](assets/swagger.png)
 
+All API samples requests/responses will be found on: `localhost:9001/redoc`
+
+![alt text](assets/redoc.png)
